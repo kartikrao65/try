@@ -1,3 +1,5 @@
+
+console.log('loaded!');
 var img = document.getElementById('kartik');
 var marginLeft=0;
 function moveRight () {
